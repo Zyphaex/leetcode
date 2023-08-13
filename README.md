@@ -9,7 +9,7 @@
 [LeetCode](https://leetcode.com/) is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 This repository showcases my participation, solutions, and projects:
-[View Live Demo](https://zyphaex.github.io/leetcode/)
+[View Live Demo](https://hillier.uk/leetcode/)
 
 ## Security Vulnerabilities
 
